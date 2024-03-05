@@ -48,6 +48,14 @@ img {
   width: 28px;
   margin-right: 10px;
 }
+.fa-copy {
+  font-size: 30px;
+}
+.fa-bolt {
+  margin-right: 15px;
+  font-size: 28px;
+  /* height: 100px; */
+}
 .container button {
   border: 0;
   outline: 0;
